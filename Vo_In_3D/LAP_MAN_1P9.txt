@@ -1,0 +1,19 @@
+DELTAX V21 - SỬA RIÊNG PHẦN LẮP MÀN IPS 1,9 INCH
+
+Robot_Kimono_Man_1p9_V21.blend: robot đầy đủ, trang phục/nón/thân/đế và camera/đèn gốc được giữ nguyên. Màn và gá mới đã đặt trong đầu. Bản này giữ nguyên vị trí đầu của V20; không tự thay gá pan hay các PCB khác.
+DELTAX_Man_1p9_V21.FCStd: CAD chỉnh sửa, gồm 5 chi tiết in và các hình học tham chiếu. Mở mặc định từ phía sau, ẩn nửa đầu sau để thấy gá. Bật HeadRear khi cần xem kín.
+DELTAX_Man_1p9_V21.step: 5 chi tiết in, ở đúng tọa độ lắp ráp.
+STL: 5 chi tiết kín, đơn vị mm. Slicer có thể cần xoay từng chi tiết để chọn mặt in phù hợp.
+
+THAY CHI TIẾT
+Thay hai nửa vỏ đầu bằng HeadFront/HeadRear V21. Bỏ LensSeatBezel và LCD_Front_Opaque_Shroud cũ, dùng LCD_Light_Tunnel_V21 cùng hai LCD_Bracket. Các chi tiết còn lại của V20 giữ nguyên. Không in các vật thể REFERENCE, CLEARANCE, màn LCD, kính hoặc film trong CAD.
+
+LẮP
+Giữ kính PC và đệm liên tục cũ. Đổi mặt nạ đen cũ sang biên dạng mở rộng theo CAD (sơn/in/màng dán mỏng), không in 3D film 0,07 mm.
+Lắp ống che sáng, đưa màn ngang vào từ phía sau. Lắp hai gá, bắt 4 vít M2 đầu chìm dài 5 mm tại lỗ góc màn và 2 vít M1.6 đầu chìm dài 5 mm vào trụ ẩn trong vỏ. Lỗ mồi trụ 1,3 mm, cần khoan/taro hoặc thử loại vít phù hợp trên mẫu in. Không truyền lực siết vào kính hay ép mặt LCD. Mô hình hãng có phần cứng ren ở góc; đối chiếu màn mua thực tế, bổ sung đai ốc/trụ M2 nếu cần, không ép vít ren trực tiếp vào lỗ PCB.
+Luồn giắc và dây trong vùng CLEARANCE. Tài liệu Waveshare hiện ghi đầu MX1.25 8 chân; bo Head dùng JST GH 8 chân. Hai loại đầu không được mặc định cắm lẫn. Dùng đuôi dây theo màn, chuyển từng chân sang GH theo sơ đồ, không dựa vào màu dây. Mô hình STEP hãng có dạng đầu cắm lớn hơn, khoảng chừa đã dùng vùng bao bảo thủ.
+
+KIỂM TRA
+Màn giữ đúng kích thước model hãng, không thu nhỏ bo. Vùng sáng 42,72 × 22,70 mm; cửa bo tròn giữ nguyên dáng ngoài nên vùng nhìn danh nghĩa qua ống che khoảng 39,6 × 21,4 mm, che các góc/viền. Không phóng to điểm ảnh.
+Các kiểm tra hình học đạt 0 giao nhau. Khe nhỏ nhất giữa màn và vỏ danh nghĩa khoảng 0,32 mm, ống che với mặt màn 0,30 mm. Đã kiểm tra 41 vị trí luồn màn trên lưới đã lưu, bước 0,5 mm; đây không phải chứng nhận chuyển động liên tục.
+Cần in thử để kiểm dung sai máy in, vít, đầu cắm mua thực tế và độ rõ/méo ảnh qua kính cong. Chỉ xác nhận phần gá màn; chưa xác nhận lắp ráp toàn bộ pin, servo và PCBA mới.

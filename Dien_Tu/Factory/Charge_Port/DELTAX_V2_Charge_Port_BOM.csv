@@ -1,0 +1,5 @@
+﻿Reference,Value,Package,Quantity,MPN_or_specification,Assembly,Notes
+C200,1uF_10V,Capacitor_SMD:C_0603_1608Metric,1,1uF_10V / X7R or X5R / >=10V / +/-20% / specified package,SMT,
+J201,USB_CHARGE,Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal,1,USB4105-GF-A-060,THT/manual,"Only added external USB port: CHARGE. USB4105-GF-A-060. VBUS to TP4056, independent5.1k at CC1 andCC2. D+/D-/SBU intentionally NC. 5V source, noPD."
+R202,5.1k,Resistor_SMD:R_0603_1608Metric,1,0603 / 5.1k / 1% / >=0.1W,SMT,
+R203,5.1k,Resistor_SMD:R_0603_1608Metric,1,0603 / 5.1k / 1% / >=0.1W,SMT,

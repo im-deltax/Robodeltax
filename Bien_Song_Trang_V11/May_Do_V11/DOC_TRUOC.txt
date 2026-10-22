@@ -1,0 +1,11 @@
+BIỂN SÓNG TRĂNG V11
+
+Mở 01_Ho_so_may_V11_1_1.pdf trước. Rập mẫu thử 1:1, phải thử vải thật trước bộ chính.
+
+02_Rap_V11_mm.dxf: DXF chuẩn, đơn vị mm, không phải DXF AAMA.
+02_Rap_SVG_1_1: từng mảnh rập, đơn vị mm.
+03_In_vai_600dpi: màu theo từng mảnh, in đúng DPI và cỡ mm.
+04_Mat_na_theu_vang_bach_kim: hướng dẫn phân vùng chỉ kim loại, chưa phải DST/PES.
+05_Du_lieu_rap_V11.json: tọa độ, dấu ráp, cỡ in và nguồn Blender.
+
+Chỉ dùng nguồn Robot_Bien_Song_Trang_V11.blend ở thư mục cha. Ảnh trước/sau V11 là mẫu ngoại quan đã duyệt. Không sửa vỏ robot.

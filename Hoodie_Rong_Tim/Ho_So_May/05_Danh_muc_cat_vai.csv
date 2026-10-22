@@ -1,0 +1,40 @@
+﻿Ma,Ten manh,So luong,Vat lieu,Rong seam mm,Cao seam mm,Chua may mm,Ghi chu
+A01,Thân trái robot — liền qua vai,1 nỉ tím,purple,51.053,107.692,3,Không có đường may vai. Giữa trước ráp kín dưới mảng bụng; giữa sau là đường mở bằng dán gai giấu dưới sống gai.
+A02,Thân phải robot — liền qua vai,1 nỉ tím,purple,51.053,107.692,3,Không có đường may vai. Giữa trước ráp kín dưới mảng bụng; giữa sau là đường mở bằng dán gai giấu dưới sống gai.
+S01,Tay trái robot — một mảnh quấn,1 nỉ tím,purple,17.605,34.074,3,Ráp gốc theo dấu; đóng đường dưới tay; bo giữ đầu tay trắng lộ khoảng 2–3 mm.
+R02,Bo tay trái,1 bo gân tím — gập đôi,rib,31.225,6.5,3,"Rập là bản trải 6,5 mm; gập đôi, bản thấy khoảng 3 mm, kéo đều khi ráp."
+S02,Tay phải robot — một mảnh quấn,1 nỉ tím,purple,17.605,34.074,3,Ráp gốc theo dấu; đóng đường dưới tay; bo giữ đầu tay trắng lộ khoảng 2–3 mm.
+R03,Bo tay phải,1 bo gân tím — gập đôi,rib,31.225,6.5,3,"Rập là bản trải 6,5 mm; gập đôi, bản thấy khoảng 3 mm, kéo đều khi ráp."
+R01,Bo gấu — mở sau,1 bo gân tím — gập đôi,rib,127.863,8.6,3,"Bản trải 8,6 mm trước chừa may, gập đôi, bản thấy 4 mm; đường mở cùng sống sau."
+H01,Mũ trùm — mảnh 1,1 nỉ tím + 1 lót mỏng,purple,37.489,79.486,3,"Giữ đúng số mảnh; ráp đường cong có dư co giãn theo dấu. Hai mảnh dưới có khuyết cổ, không tự bịt."
+H02,Mũ trùm — mảnh 2,1 nỉ tím + 1 lót mỏng,purple,31.391,81.641,3,"Giữ đúng số mảnh; ráp đường cong có dư co giãn theo dấu. Hai mảnh dưới có khuyết cổ, không tự bịt."
+H03,Mũ trùm — mảnh 3,1 nỉ tím + 1 lót mỏng,purple,36.332,81.34,3,"Giữ đúng số mảnh; ráp đường cong có dư co giãn theo dấu. Hai mảnh dưới có khuyết cổ, không tự bịt."
+H04,Mũ trùm — mảnh 4,1 nỉ tím + 1 lót mỏng,purple,36.334,81.331,3,"Giữ đúng số mảnh; ráp đường cong có dư co giãn theo dấu. Hai mảnh dưới có khuyết cổ, không tự bịt."
+H05,Mũ trùm — mảnh 5,1 nỉ tím + 1 lót mỏng,purple,31.392,81.65,3,"Giữ đúng số mảnh; ráp đường cong có dư co giãn theo dấu. Hai mảnh dưới có khuyết cổ, không tự bịt."
+H06,Mũ trùm — mảnh 6,1 nỉ tím + 1 lót mỏng,purple,37.491,79.498,3,"Giữ đúng số mảnh; ráp đường cong có dư co giãn theo dấu. Hai mảnh dưới có khuyết cổ, không tự bịt."
+L01,Nẹp lót kem quanh mặt,1 dải kem canh xéo,cream,6.5,172.126,2,"Canh xéo, gập đôi lộ khoảng 3 mm. Vòng thành phẩm 172.13 mm; tổng mép rập mũ 174.32 mm. Vê nẹp xéo và phân độ dư khoảng 2.20 mm đều quanh vòng. Đặt sáu dấu ghép mảnh và giữa cằm; ghim thử trước khi may kín."
+L02,Đáp cổ tím nối áo với mũ,1 tím + 1 lót mỏng,purple,6.0,78.347,2,"Đáp cổ canh xéo; dài theo tổng mép cổ A01/A02. Gập mềm, neo vào mũ sau thử, giữ bên ngoài vỏ đầu. Không ép vải vào đầu/cổng. Đây là dải canh xéo để vê/định hình theo cổ; cắt thử và ghim kiểm tra đường cong cổ trước khi ráp chính thức."
+F01,Nẹp che mở sau,2 nỉ tím,purple,7.0,48.274,2,"Gai lưng gắn lên nẹp ngoài; mặt trong dùng dán gai mềm bản3mm, để mở hoàn toàn giữa lưng."
+F02,Nẹp mở sống mũ,2 nỉ tím,purple,6.0,31.09,2,"Nẹp mở nửa sau dưới mũ theo J15, nối tới cửa thân sau J04. Dán gai mềm3mm dưới sống gai; mũ có cửa mặt co giãn nhẹ để luồn đầu68mm."
+P01,Bụng rồng kem — in DELTAX,1 vải kem,cream,18.0,37.2,1,"Appliqué gập mép1mm, top V; in DELTAX và5cặp vạch tím theo file600dpi. Khâu lên thân trước sau khi ráp sống trước, không may dính hai thân sau."
+G01,Gai mềm 12mm,1 mảnh kem → 1 gai,cream,19.263,12.5,1,"May hai cạnh thẳng thành nón mềm, lộn, nhồi bông rất ít, khâu vòng chân vào áo; không dùng nhựa."
+G02,Gai mềm 8mm,3 mảnh kem → 3 gai,cream,14.601,8.476,1,"May hai cạnh thẳng thành nón mềm, lộn, nhồi bông rất ít, khâu vòng chân vào áo; không dùng nhựa."
+G03,Gai mềm 6mm,3 mảnh kem → 3 gai,cream,11.593,6.426,1,"May hai cạnh thẳng thành nón mềm, lộn, nhồi bông rất ít, khâu vòng chân vào áo; không dùng nhựa."
+G04,Gai mềm 4mm,2 mảnh kem → 2 gai,cream,8.427,4.386,1,"May hai cạnh thẳng thành nón mềm, lộn, nhồi bông rất ít, khâu vòng chân vào áo; không dùng nhựa."
+G05,Gai mềm 7mm,1 mảnh kem → 1 gai,cream,12.603,7.4,1,"May hai cạnh thẳng thành nón mềm, lộn, nhồi bông rất ít, khâu vòng chân vào áo; không dùng nhựa."
+G06,Gai mềm 6mm,1 mảnh kem → 1 gai,cream,11.119,6.374,1,"May hai cạnh thẳng thành nón mềm, lộn, nhồi bông rất ít, khâu vòng chân vào áo; không dùng nhựa."
+G07,Gai mềm 5mm,2 mảnh kem → 2 gai,cream,9.61,5.349,1,"May hai cạnh thẳng thành nón mềm, lộn, nhồi bông rất ít, khâu vòng chân vào áo; không dùng nhựa."
+G08,Gai mềm 4mm,2 mảnh kem → 2 gai,cream,8.059,4.327,1,"May hai cạnh thẳng thành nón mềm, lộn, nhồi bông rất ít, khâu vòng chân vào áo; không dùng nhựa."
+G09,Gai mềm 3mm,1 mảnh kem → 1 gai,cream,6.428,3.311,1,"May hai cạnh thẳng thành nón mềm, lộn, nhồi bông rất ít, khâu vòng chân vào áo; không dùng nhựa."
+G10,Gai mềm 3.5mm,6 mảnh kem → 6 gai,cream,6.787,3.751,1,"May hai cạnh thẳng thành nón mềm, lộn, nhồi bông rất ít, khâu vòng chân vào áo; không dùng nhựa."
+G11,Gai mềm 4mm,4 mảnh kem → 4 gai,cream,7.922,4.308,1,"May hai cạnh thẳng thành nón mềm, lộn, nhồi bông rất ít, khâu vòng chân vào áo; không dùng nhựa."
+T01,Răng trên — đầu tròn,12 miếng → 6 răng,cream,3.6,4.5,1,"Hai mặt đối nhau, may lộn, nhồi mỏng, giữ6răng trên ngoài màn hình."
+T02,Răng bên lớn,4 miếng → 2 răng,cream,3.312,4.05,1,
+T03,Răng bên vừa,4 miếng → 2 răng,cream,2.988,3.51,1,
+T04,Răng bên nhỏ,4 miếng → 2 răng,cream,2.592,2.97,1,
+E01,Tai — vỏ tím,4 miếng tím — 2tai,purple,7.8,11.8,1,
+E02,Lót tai kem,2 miếng kem,cream,5.694,8.614,0.6,Đắp bên trong tai trước khi ráp hai mặt; nhồi mỏng.
+W01,Cánh dơi rồng,4 miếng kem — 2 cánh đối xứng,cream,15.0,12.234,1,"May lộn2mặt, bông mỏng≤1mm; ba hõm mép dưới; chỉ tím chia gân, nẹp tím rất nhỏ. Gắn bả vai, không gắn lên tay."
+M01,Mắt rồng — vòng cung ngoài,2 kem appliqué,cream,12.824,4.091,0,"Nỉ ít tưa, cắt sát đường đen, khâu nhỏ chìm, hai bên đối xứng."
+M02,Mắt rồng — vòng cung trong,2 kem appliqué,cream,6.592,2.1,0,
+K01,Lót kín lòng cổ trước/sau,2 tím mỏng,purple thin lining,19.0,7.5,1,Đặt cạnh rộng phía trên. Ráp kín vào mặt trong cổ; không may vào vỏ. Hai mảnh trước/sau che vùng thân trong vòng cổ.

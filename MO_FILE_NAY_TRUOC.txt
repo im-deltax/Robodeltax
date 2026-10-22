@@ -1,0 +1,14 @@
+KIMONO - BỘ FILE HIỆN HÀNH
+
+1. Vo_In_3D/STL: 17 chi tiết in, đơn vị mm. Đầu và gá màn V21; thân, đế, tay và các chi tiết còn lại giữ nguyên bản đã chốt. Không in cả thư mục Nguon_CAD_Giu_Lai.
+   Vo_In_3D/CAD: FreeCAD và STEP phần đầu/gá màn V21 (5 chi tiết), không phải CAD toàn bộ thân mới. Xem LAP_MAN_1P9.txt trước khi lắp.
+2. Trang_Phuc: bộ may V20 đã duyệt, gồm PDF rập 1:1, DXF mm, SVG, file in 600 dpi và texture 4K. In PDF 100%, không Fit to page; kiểm tra thước chuẩn trước khi cắt. DXF là bản vẽ mm, không xác nhận chuẩn DXF AAMA.
+3. Blender/Robot_Kimono_Man_1p9_V21.blend: file cảnh đầy đủ mới nhất, đã giữ trang phục V20 và cập nhật đầu/gá màn V21; texture được đóng gói.
+4. Dien_Tu/KiCad: các project và thư viện nguồn. Dien_Tu/Factory: 4 bộ Gerber/Drill ZIP (Controller, Head, Power, Charge_Port), BOM/CPL và sơ đồ dây/BOM rời trong Assembly.
+5. Nguon_CAD_Giu_Lai: nguồn CAD cũ giữ theo yêu cầu trước đây, chỉ dùng tra cứu/chỉnh sửa. Không dùng làm bộ in mới nhất.
+
+LƯU Ý LẮP RÁP HIỆN TẠI
+- Đây là các bộ thiết kế hiện hành được gom cùng chỗ. Chưa xác nhận lắp vừa toàn bộ PCB, pin, servo và dây trong vỏ; bản đầu V21 chỉ sửa phần lắp màn 1,9 inch, giữ tư thế đầu V20 và chưa tích hợp cơ cấu quay đầu/nâng cổ 4,5 mm.
+- Gerber V2 là bản chế tạo nguyên mẫu, chưa thử điện thực tế. Chọn chế độ USB trước khi cắm USB-C nạp code trên SuperMini; mạch chưa có tự động phát hiện USB hoặc khóa liên động.
+- Đầu dây màn theo tài liệu hãng là MX1.25 8 chân, đầu J2 bo Head là JST GH 8 chân. Không cắm lẫn hai loại; dùng đuôi dây của màn và đấu chuyển theo chân trong sơ đồ, không theo màu dây. Dòng LCD_CABLE trong BOM chỉ mô tả phía GH của bo Head.
+- Đã đối chiếu SHA256 các file sao chép trước khi dọn các thư mục giao cũ. Việc gom file không thay đổi thiết kế vỏ, trang phục hoặc mạch.

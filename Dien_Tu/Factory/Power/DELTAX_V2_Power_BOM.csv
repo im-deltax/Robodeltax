@@ -1,0 +1,52 @@
+﻿Reference,Value,Package,Quantity,MPN_or_specification,Assembly,Notes
+C100,100nF,Capacitor_SMD:C_0603_1608Metric,1,100nF / X7R or X5R / >=10V / +/-20% / specified package,SMT,
+C101,10uF_10V,Capacitor_SMD:C_0805_2012Metric,1,10uF_10V / X7R or X5R / >=10V / +/-20% / specified package,SMT,
+C102,10uF_10V,Capacitor_SMD:C_0805_2012Metric,1,10uF_10V / X7R or X5R / >=10V / +/-20% / specified package,SMT,
+C103,10nF,Capacitor_SMD:C_0603_1608Metric,1,10nF / X7R or X5R / >=10V / +/-20% / specified package,SMT,
+C104,100nF,Capacitor_SMD:C_0603_1608Metric,1,100nF / X7R or X5R / >=10V / +/-20% / specified package,SMT,
+C105,1nF,Capacitor_SMD:C_0603_1608Metric,1,1nF / X7R or X5R / >=10V / +/-20% / specified package,SMT,
+C106,22uF_10V,Capacitor_SMD:C_0805_2012Metric,1,GRM21BR61A226ME51L,SMT,
+C107,22uF_10V,Capacitor_SMD:C_0805_2012Metric,1,GRM21BR61A226ME51L,SMT,
+C108,22uF_10V,Capacitor_SMD:C_0805_2012Metric,1,GRM21BR61A226ME51L,SMT,
+C109,100nF,Capacitor_SMD:C_0603_1608Metric,1,100nF / X7R or X5R / >=10V / +/-20% / specified package,SMT,
+C110,100uF_10V_GRM32ER61A107ME20L,Capacitor_SMD:C_1210_3225Metric,1,GRM32ER61A107ME20L,SMT,
+C111,100nF,Capacitor_SMD:C_0402_1005Metric,1,GRM155R71C104KA88D,SMT,"100nF16V X7R0402 Murata GRM155R71C104KA88D, local buffer bypass."
+D100,RED,LED_SMD:LED_0603_1608Metric,1,,SMT,Charge statusLED on body; visible only when garment lifted. No need to powerMCU whilecharging.
+D101,GREEN,LED_SMD:LED_0603_1608Metric,1,,SMT,Charge statusLED on body; visible only when garment lifted. No need to powerMCU whilecharging.
+L100,XAL4020-102MEC_1uH,Inductor_SMD:L_Coilcraft_XAL4020-XXX,1,XAL4020-102MEC,SMT,"Coilcraft1uH±20%,DCRmax14.6mohm,Isat8.7A@30%drop,nominalheight2.1mm; validate effectiveinductance and two-layerconverterlayout before release."
+Q100,CSD85302L,Deltax:CSD85302L,1,CSD85302L,SMT,"Two backtobackFETs,source-sourceRDSmax36mohm@2.5V,25C. OCDmin140mV/36mohm~3.89A at25C; hotresistance must be qualified against estimated2.3..2.5A peaks. No bypass CELL_MINUS toGND."
+Q102,2N7002_GSD,Package_TO_SOT_SMD:SOT-23,1,2N7002,SMT,
+Q103,2N7002_GSD,Package_TO_SOT_SMD:SOT-23,1,2N7002,SMT,"SeriesNMOS chain: PWMbuffer onlyenabled whenSERVO_EN andFAULT_N bothhigh. FaultgatesPWM in hardware, without waiting for I2C polling."
+Q104,2N7002_GSD,Package_TO_SOT_SMD:SOT-23,1,2N7002,SMT,
+Q105,2N7002_GSD,Package_TO_SOT_SMD:SOT-23,1,2N7002,SMT,
+Q106,2N7002_GSD,Package_TO_SOT_SMD:SOT-23,1,2N7002,SMT,Hardware clamp for USB selector position. BOOST_EN additionally qualifies PWM. Not automatic host detection.
+Q107,2N7002_GSD,Package_TO_SOT_SMD:SOT-23,1,2N7002,SMT,"Charge cable immediately clamps servo enable, independently of firmware."
+R100,330R,Resistor_SMD:R_0603_1608Metric,1,0603 / 330R / 1% / >=0.1W,SMT,
+R101,2.2k,Resistor_SMD:R_0603_1608Metric,1,0603 / 2.2k / 1% / >=0.1W,SMT,
+R102,10k,Resistor_SMD:R_0603_1608Metric,1,0603 / 10k / 1% / >=0.1W,SMT,
+R103,6.81k,Resistor_SMD:R_0603_1608Metric,1,0603 / 6.81k / 1% / >=0.1W,SMT,
+R104,330R,Resistor_SMD:R_0603_1608Metric,1,0603 / 330R / 1% / >=0.1W,SMT,
+R105,24.9k,Resistor_SMD:R_0603_1608Metric,1,0603 / 24.9k / 1% / >=0.1W,SMT,
+R106,10k,Resistor_SMD:R_0603_1608Metric,1,0603 / 10k / 1% / >=0.1W,SMT,
+R107,47k,Resistor_SMD:R_0603_1608Metric,1,0603 / 47k / 1% / >=0.1W,SMT,
+R108,2.2k,Resistor_SMD:R_0603_1608Metric,1,0603 / 2.2k / 1% / >=0.1W,SMT,
+R109,2.2k,Resistor_SMD:R_0603_1608Metric,1,0603 / 2.2k / 1% / >=0.1W,SMT,
+R110,100k,Resistor_SMD:R_0603_1608Metric,1,0603 / 100k / 1% / >=0.1W,SMT,
+R111,1M,Resistor_SMD:R_0603_1608Metric,1,0603 / 1M / 1% / >=0.1W,SMT,
+R112,100k,Resistor_SMD:R_0603_1608Metric,1,0603 / 100k / 1% / >=0.1W,SMT,
+R113,1M,Resistor_SMD:R_0603_1608Metric,1,0603 / 1M / 1% / >=0.1W,SMT,
+R114,1M,Resistor_SMD:R_0603_1608Metric,1,0603 / 1M / 1% / >=0.1W,SMT,
+R115,130k,Resistor_SMD:R_0603_1608Metric,1,0603 / 130k / 1% / >=0.1W,SMT,
+R116,43.2k,Resistor_SMD:R_0603_1608Metric,1,0603 / 43.2k / 1% / >=0.1W,SMT,
+R117,100k,Resistor_SMD:R_0603_1608Metric,1,0603 / 100k / 1% / >=0.1W,SMT,
+R118,10k,Resistor_SMD:R_0603_1608Metric,1,0603 / 10k / 1% / >=0.1W,SMT,
+R119,1k,Resistor_SMD:R_0603_1608Metric,1,0603 / 1k / 1% / >=0.1W,SMT,
+R120,100k,Resistor_SMD:R_0603_1608Metric,1,0603 / 100k / 1% / >=0.1W,SMT,
+R121,100k,Resistor_SMD:R_0603_1608Metric,1,0603 / 100k / 1% / >=0.1W,SMT,
+R122,100k,Resistor_SMD:R_0603_1608Metric,1,0603 / 100k / 1% / >=0.1W,SMT,
+U100,BQ29728DSER,Package_SON:WSON-6_1.5x1.5mm_P0.5mm,1,BQ29728DSER,SMT,"BQ29728 OVP4.28V UVP2.8V OCD150mV. UVP is emergency cutoff; normal firmware stops servo and shuts down earlier. Current threshold depends on exact FETs/hotRDS, not a fixed amp value."
+U101,TP4056-42-ESOP8,Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm,1,TP4056-42-ESOP8,SMT,"Robot hardwareOFF while chargeUSBpresent. ExactTP4056part must match Rev2.3; nominal~110mA at10k but table~130mA, measure before release. Thermal copper needed on 2layerPCB. In USB mode MCU may operate from host while battery loads remain disconnected. Charging from second port must not backfeed CODE VBUS."
+U102,TLV3011BIDBVR,Package_TO_SOT_SMD:SOT-23-6,1,TLV3011BIDBVR,SMT,"Independent shortNTC inhibitor. Internal1.242V divided to0.356V; TEMPshort yields~0.23V. OpenNTC inhibitsviaTP4056upperTEMPthreshold. Guard~5..40C nominal, verify exact TDKR/T and threshold tolerances."
+U103,TPS61023DRLR,Package_TO_SOT_SMD:SOT-563,1,TPS61023DRLR,SMT,"595mV nominalfeedback,1M/130k gives5.172Vnominal. 3.7A is switchlimit, NOT outputrating. Validate 2layerlayout/efficiency/transient/temperature with realmodule and servo. V2 output is 5V_BOOST; module receives it only through the mode-controlled opposed-PMOS pair."
+U104,TPS2553_1DBVR,Package_TO_SOT_SMD:SOT-23-6,1,TPS2553DBVR-1,SMT,"ExactlatchoffTPS2553-1,nominal600mA,43.2k currentthreshold~544..673mA@datasheetconditions. Faultrequiresenablecycle; firmware stopsmotion and reportsfault instead of repeatedautoretry."
+U105,SN74AHCT1G125DBVR,Package_TO_SOT_SMD:SOT-23-5,1,SN74AHCT1G125DBVR,SMT,Buffer supplied by 5V_MODULE in both BAT and CODE modes. OE pullup uses the same supply; hardware chain requires actual BOOST_EN plus firmware SERVO_EN plus FAULT_N. This avoids relying on unqualified powered-off Ioff.

@@ -1,0 +1,34 @@
+﻿Reference,Value,Package,Quantity,MPN_or_specification,Assembly,Notes
+C1,100nF,Capacitor_SMD:C_0603_1608Metric,1,100nF / X7R or X5R / >=10V / +/-20% / specified package,SMT,
+C11,100nF,Capacitor_SMD:C_0603_1608Metric,1,100nF / X7R or X5R / >=10V / +/-20% / specified package,SMT,
+C2,4.7uF,Capacitor_SMD:C_0603_1608Metric,1,4.7uF / X7R or X5R / >=10V / +/-20% / specified package,SMT,
+C3,4.7uF,Capacitor_SMD:C_0603_1608Metric,1,4.7uF / X7R or X5R / >=10V / +/-20% / specified package,SMT,
+C4,100nF,Capacitor_SMD:C_0402_1005Metric,1,GRM155R71C104KA88D,SMT,"100nF16V X7R0402, Murata GRM155R71C104KA88D. Place directly at amplifier VDD with short ground return."
+C5,47uF_10V,Capacitor_SMD:C_0805_2012Metric,1,C2012X5R1A476M125AC,SMT,"TDK C2012X5R1A476M125AC, 47uF10V X5R0805, height max1.45mm. Audio bulk bypass, assess effective C under DC bias."
+C6,100nF,Capacitor_SMD:C_0603_1608Metric,1,100nF / X7R or X5R / >=10V / +/-20% / specified package,SMT,
+C7,DNP_SENSITIVITY_CAP,Capacitor_SMD:C_0603_1608Metric,1,DNP_SENSITIVITY_CAP / X7R or X5R / >=10V / +/-20% / specified package,DNP,
+C8,100nF,Capacitor_SMD:C_0603_1608Metric,1,100nF / X7R or X5R / >=10V / +/-20% / specified package,SMT,
+C9,1uF,Capacitor_SMD:C_0603_1608Metric,1,1uF / X7R or X5R / >=10V / +/-20% / specified package,SMT,
+F1,0466003.NR_3A,Fuse:Fuse_1206_3216Metric,1,0466003.NR,SMT,"Littelfuse466 3A fast fuse 1206, raw cell positive close to battery before moving neck wires. Nominal20mohm and inrush/I2t must be checked with load budget."
+J2,J2,Connector_JST:JST_GH_SM08B-GHS-TB_1x08-1MP_P1.25mm_Horizontal,1,SM08B-GHS-TB(LF)(SN),SMT,"Waveshare port order VCC GND DIN CLK CS DC RST BL, module powered3V3. CS tied low: only one SPI peripheral."
+Q13,2N7002_GSD,Package_TO_SOT_SMD:SOT-23,1,2N7002,SMT,
+Q2,AO3401A_GSD,Package_TO_SOT_SMD:SOT-23,1,AO3401A,SMT,
+Q3,2N7002_GSD,Package_TO_SOT_SMD:SOT-23,1,2N7002,SMT,
+R11,10k,Resistor_SMD:R_0603_1608Metric,1,0603 / 10k / 1% / >=0.1W,SMT,
+R15,100k,Resistor_SMD:R_0603_1608Metric,1,0603 / 100k / 1% / >=0.1W,SMT,
+R16,200k,Resistor_SMD:R_0603_1608Metric,1,0603 / 200k / 1% / >=0.1W,SMT,
+R17,100k,Resistor_SMD:R_0603_1608Metric,1,0603 / 100k / 1% / >=0.1W,SMT,
+R18,0R,Resistor_SMD:R_0603_1608Metric,1,0603 / 0R / 1% / >=0.1W,SMT,
+R3,10k,Resistor_SMD:R_0603_1608Metric,1,0603 / 10k / 1% / >=0.1W,SMT,
+R31,10k,Resistor_SMD:R_0603_1608Metric,1,0603 / 10k / 1% / >=0.1W,SMT,
+R4,10k,Resistor_SMD:R_0603_1608Metric,1,0603 / 10k / 1% / >=0.1W,SMT,
+R5,100k,Resistor_SMD:R_0603_1608Metric,1,0603 / 100k / 1% / >=0.1W,SMT,
+R6,100k,Resistor_SMD:R_0603_1608Metric,1,0603 / 100k / 1% / >=0.1W,SMT,
+R7,100k,Resistor_SMD:R_0603_1608Metric,1,0603 / 100k / 1% / >=0.1W,SMT,
+R8,100k,Resistor_SMD:R_0603_1608Metric,1,0603 / 100k / 1% / >=0.1W,SMT,
+R9,10k,Resistor_SMD:R_0603_1608Metric,1,0603 / 10k / 1% / >=0.1W,SMT,
+U1,TCA9534PWR,Package_SO:TSSOP-16_4.4x5mm_P0.65mm,1,TCA9534PWR,SMT,
+U2,AP2112K-3.3,Package_TO_SOT_SMD:SOT-23-5,1,AP2112K-3.3TRG1,SMT,AP2112K-3.3TRG1. Supplies LCD only; audio is powered by5V_MODULE. EN tied module3V3. Validate thermal behavior on prototype.
+U3,MAX98357A,Package_DFN_QFN:TQFN-16-1EP_3x3mm_P0.5mm_EP1.23x1.23mm,1,MAX98357AETE+T,SMT,"Gain floating9dB; mono duplicated in I2S slots. Speaker BTL: neither lead connects GND. Exact8ohm speaker and loudness/thermal qualification pending. EP is soldered to ground per ADI datasheet; local symbol labels its electrical type passive instead of unspecified. Audio VDD supplied directly by5V_MODULE, not LCD LDO. Speaker8ohm0.5W; firmware output limit and bench calibration are mandatory."
+U4,TTP223_CA6,Package_TO_SOT_SMD:SOT-23-6,1,TTP223-CA6,SMT,Active high direct mode. Electrode size/sensitivity needs real shell+hat test.
+U5,LIS3DH,Package_LGA:LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y,1,LIS3DHTR,SMT,"CS high forI2C, SA0 low0x18, poll100Hz. Shake detection only; firmware subtracts gravity and ignores ordinary servo motion."

@@ -1,0 +1,13 @@
+﻿Reference,Quantity,Part_or_specification,Assembly_and_qualification_notes
+M1,1,ESP32-C3 SuperMini complete module,User-owned 18 x 22.52 mm; verify purchased revision/socket and maximum USB height before final enclosure assembly. Select USB before connecting native CODE USB-C.
+LCD,1,Waveshare 1.9inch LCD Module 23822 / ST7789V2,320 x 170; 3.3 V from Head J2. Pin order VCC GND DIN CLK CS DC RST BL.
+SERVO,1,Hitec HS-40 candidate,"Pan only. Head supported by separate bearing/shaft. Qualify stall current, range and loaded motion with actual head before use."
+CELL,1,1S LiPo 500 mAh; Grepow GRP6723042 candidate,Raw cell candidate only; complete pack/tab dimensions and supplier charge/discharge approval not qualified. Fit candidate raw cell 43 x 23.5 x 6.6 mm. Do not substitute low-discharge 500 mAh cell without current validation.
+NTC,1,TDK B57861S0103F040,"10 kohm 1 percent B3988; attach electrically insulated to cell pouch. Return to protected GND, never raw CELL_MINUS."
+SPEAKER,1,PUI Audio AS02008MR-R; 8 ohm 0.5 W,Head speaker output is BTL: neither speaker wire is GND. Firmware must limit output and validate loudness/temperature.
+VOL_PLUS/VOL_MINUS,2,Normally-open momentary buttons,Wire each input to GND using marked Controller button pads.
+TOUCH_PAD,1,Conductive fabric/copper electrode,Wire to Head touch electrode pad; tune sensitivity with actual enclosure and fabric.
+SW1,1,C&K JS202011JCQN / non-shorting DPDT,Logical symbol contacts are NOT physical manufacturer terminal numbering. Wire according to Assembly USB_BAT_Mode sheet and manufacturer drawing; verify continuity unpowered. USB/BAT selects logic only. Mechanical CODE-port interlock not included.
+MODULE_HEADERS,2,1 x 8 / 2.54 mm male headers,Match SLW-108 sockets and purchased module hole diameter. Plastic above module PCB to preserve underside clearance.
+LCD_CABLE,1,8-pin JST GH 1.25 mm cable assembly,Match Head J2 and LCD wiring order; vendor cable color/order is not assumed.
+HARNESS,1,Flexible stranded silicone wire set,Use Harness.csv and schematic port numbering. 24 AWG power/cell/servo returns; 30 AWG low-current signals; shortest practical runs with neck service loop and strain relief. Final lengths require actual assembly.

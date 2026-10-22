@@ -1,0 +1,1 @@
+(sym_lib_table (lib (name "Connector") (type "KiCad") (uri "${KIPRJMOD}/../Libraries/Connector.kicad_sym") (options "") (descr "KiCad9")) (lib (name "Device") (type "KiCad") (uri "${KIPRJMOD}/../Libraries/Device.kicad_sym") (options "") (descr "KiCad9")) (lib (name "Deltax") (type "KiCad") (uri "${KIPRJMOD}/Deltax.kicad_sym") (options "") (descr "Explicit vendor pin maps")))

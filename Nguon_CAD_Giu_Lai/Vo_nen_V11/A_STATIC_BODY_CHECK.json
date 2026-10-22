@@ -1,0 +1,1546 @@
+{
+  "scope": "Static intersections of enlarged belly/base/main cloak solids against all unscaled translated hardware proxies. Fine decorative trim excluded; hardware proxies are design envelopes, not bought parts.",
+  "checks": [
+    {
+      "part": "Belly",
+      "hardware": "HW_ServoProxyReference",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_UpperPCB",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_upper_J20",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_upper_SW2",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_upper_L2",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_upper_TP10",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_upper_TP12",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_upper_C9",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_upper_R14",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_upper_TP8",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_upper_U7",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_upper_R26",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_upper_J9",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_upper_R18",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_upper_L3",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_upper_C8",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_upper_C10",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_upper_C13",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_upper_U5",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_upper_TP9",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_upper_C23",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_upper_TP11",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_upper_C24",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_upper_R25",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_upper_C18",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_upper_R16",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_upper_Y1",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_upper_R17",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_upper_R15",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_upper_R30",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_upper_R35",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_upper_SW1",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_upper_TP7",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_upper_J2",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_upper_C25",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_upper_L1",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_upper_R23",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_upper_U3",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_upper_R29",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_upper_U6",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_upper_R33",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_upper_R24",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_upper_C7",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_LowerPCB",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_C1",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_C2",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_C26",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_C27",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_C28",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_C29",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_C3",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_C30",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_C31",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_C32",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_C33",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_C35",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_C39",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_C40",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_C41",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_C42",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_C43",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_J1",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_J10",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_J20",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_J3",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_J4",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_L5",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_Q2",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_Q4",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_Q5",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_Q6",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_Q7",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_R1",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_R10",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_R11",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_R12",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_R2",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_R3",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_R4",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_R44",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_R45",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_R46",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_R47",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_R49",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_R5",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_R51",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_R52",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_R53",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_R55",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_R57",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_R58",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_R59",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_R61",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_R8",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_TP16",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_TP17",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_TP18",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_TP19",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_TP2",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_TP21",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_TP3",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_TP4",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_TP5",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_U10",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_U11",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_U12",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_U13",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_U18",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_lower_U20",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_USB_U65",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_USB_U66",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_USB_C65",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "Belly",
+      "hardware": "HW_USB_C66",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_ServoProxyReference",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_UpperPCB",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_upper_J20",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_upper_C4",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_upper_C11",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_upper_J5",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_upper_C20",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_upper_L4",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_upper_R37",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_upper_R27",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_upper_C5",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_upper_C19",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_upper_R41",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_upper_TP10",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_upper_J8",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_upper_R38",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_upper_J6",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_upper_TP13",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_upper_C14",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_upper_C22",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_upper_C21",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_upper_C16",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_upper_U4",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_upper_R39",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_upper_R40",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_upper_TP14",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_upper_C15",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_upper_R28",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_upper_R34",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_upper_C12",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_upper_U8",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_upper_U9",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_upper_R19",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_upper_C17",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_upper_U15",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_upper_TP15",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_upper_J7",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_upper_C6",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_upper_R20",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_upper_R32",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_upper_R22",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_upper_R21",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_upper_TP6",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_upper_R31",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_upper_R36",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_LowerPCB",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_lower_C28",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_lower_C34",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_lower_C36",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_lower_C37",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_lower_J1",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_lower_J10",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_lower_J20",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_lower_L5",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_lower_Q1",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_lower_Q3",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_lower_Q4",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_lower_R13",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_lower_R42",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_lower_R43",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_lower_R46",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_lower_R48",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_lower_R50",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_lower_R54",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_lower_R56",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_lower_R58",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_lower_R6",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_lower_R60",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_lower_R61",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_lower_R62",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_lower_R63",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_lower_R64",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_lower_R7",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_lower_R9",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_lower_TP1",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_lower_TP20",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_lower_TP22",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_lower_U1",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_lower_U14",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_lower_U19",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_lower_U2",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_lower_U21",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_USB_J2_MATED_PROXY",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Rear_Fixed_Frame",
+      "hardware": "HW_USB_Q65",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Back_Shoulder_Cowl",
+      "hardware": "HW_ServoProxyReference",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_ServoProxyReference",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_UpperPCB",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_upper_J20",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_upper_J9",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_upper_C23",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_upper_C24",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_upper_R30",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_upper_R35",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_upper_J2",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_upper_C25",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_upper_R29",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_upper_R33",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_LowerPCB",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_lower_C2",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_lower_C28",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_lower_C3",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_lower_C32",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_lower_C35",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_lower_C39",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_lower_C41",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_lower_C42",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_lower_J1",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_lower_J20",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_lower_J4",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_lower_Q2",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_lower_Q6",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_lower_R1",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_lower_R11",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_lower_R12",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_lower_R4",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_lower_R45",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_lower_R47",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_lower_R5",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_lower_R53",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_lower_R58",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_lower_TP16",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_lower_TP17",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_lower_TP18",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_lower_TP2",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_lower_TP3",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_lower_TP4",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_lower_TP5",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_lower_U11",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_lower_U20",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_USB_U65",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_USB_C65",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Right",
+      "hardware": "HW_USB_C66",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_ServoProxyReference",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_UpperPCB",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_upper_SW2",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_upper_L2",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_upper_TP10",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_upper_TP12",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_upper_C9",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_upper_R14",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_upper_TP8",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_upper_U7",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_upper_R26",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_upper_R18",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_upper_L3",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_upper_C8",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_upper_C10",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_upper_C13",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_upper_TP9",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_upper_TP11",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_upper_R25",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_upper_C18",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_upper_R16",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_upper_Y1",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_upper_R17",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_upper_R15",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_upper_TP7",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_upper_L1",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_upper_R23",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_upper_U3",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_upper_R24",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_upper_C7",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_LowerPCB",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_lower_C26",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_lower_C27",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_lower_C29",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_lower_C30",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_lower_C31",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_lower_C33",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_lower_C40",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_lower_C43",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_lower_J10",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_lower_J3",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_lower_L5",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_lower_Q4",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_lower_Q5",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_lower_Q7",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_lower_R10",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_lower_R2",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_lower_R3",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_lower_R42",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_lower_R44",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_lower_R46",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_lower_R49",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_lower_R51",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_lower_R52",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_lower_R55",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_lower_R57",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_lower_R59",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_lower_R61",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_lower_R8",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_lower_TP19",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_lower_U10",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_lower_U12",
+      "common_volume_mm3": 0.0
+    },
+    {
+      "part": "V7_Draped_Front_Left",
+      "hardware": "HW_USB_U66",
+      "common_volume_mm3": 0.0
+    }
+  ],
+  "interferences": []
+}

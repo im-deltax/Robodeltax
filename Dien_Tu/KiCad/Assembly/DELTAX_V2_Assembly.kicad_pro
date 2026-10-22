@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "filename": "DELTAX_V2_Assembly.kicad_pro",
+    "version": 1
+  },
+  "net_settings": {
+    "meta": {
+      "version": 4
+    },
+    "classes": [
+      {
+        "name": "Default",
+        "priority": 2147483647,
+        "clearance": 0.15,
+        "track_width": 0.2,
+        "via_diameter": 0.6,
+        "via_drill": 0.3
+      }
+    ]
+  },
+  "board": {
+    "design_settings": {
+      "rules": {
+        "min_clearance": 0.15,
+        "min_track_width": 0.15,
+        "min_through_hole_diameter": 0.3,
+        "min_copper_edge_clearance": 0.25
+      }
+    }
+  }
+}

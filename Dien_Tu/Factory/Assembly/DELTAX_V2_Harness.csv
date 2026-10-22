@@ -1,0 +1,39 @@
+﻿Board A,Port A,Pin,Net,Board B,Port B,Notes
+Controller,J30,1,BAT_ADC,Head,J300,2.54pitch aligned to native right header. Harness pin2 is GND and never tied to GPIO1(PAN_PWM). Battery divider is local on head after cell fuse. Power off before disconnecting.
+Controller,J30,2,GND,Head,J300,2.54pitch aligned to native right header. Harness pin2 is GND and never tied to GPIO1(PAN_PWM). Battery divider is local on head after cell fuse. Power off before disconnecting.
+Controller,J30,3,I2C_SDA,Head,J300,2.54pitch aligned to native right header. Harness pin2 is GND and never tied to GPIO1(PAN_PWM). Battery divider is local on head after cell fuse. Power off before disconnecting.
+Controller,J30,4,TOUCH,Head,J300,2.54pitch aligned to native right header. Harness pin2 is GND and never tied to GPIO1(PAN_PWM). Battery divider is local on head after cell fuse. Power off before disconnecting.
+Controller,J30,5,I2S_BCLK,Head,J300,2.54pitch aligned to native right header. Harness pin2 is GND and never tied to GPIO1(PAN_PWM). Battery divider is local on head after cell fuse. Power off before disconnecting.
+Controller,J30,6,3V3_MCU,Head,J300,2.54pitch aligned to native right header. Harness pin2 is GND and never tied to GPIO1(PAN_PWM). Battery divider is local on head after cell fuse. Power off before disconnecting.
+Controller,J30,7,GND,Head,J300,2.54pitch aligned to native right header. Harness pin2 is GND and never tied to GPIO1(PAN_PWM). Battery divider is local on head after cell fuse. Power off before disconnecting.
+Controller,J30,8,5V_MODULE,Head,J300,2.54pitch aligned to native right header. Harness pin2 is GND and never tied to GPIO1(PAN_PWM). Battery divider is local on head after cell fuse. Power off before disconnecting.
+Controller,J31,1,I2S_LRCLK,Head,J301,2.54pitch row aligned to native left header; two ground returns occupy GPIO8/9 reserved positions on harness ONLY (not wired to GPIO8/9). Flexible neck service loop.
+Controller,J31,2,LCD_SCLK,Head,J301,2.54pitch row aligned to native left header; two ground returns occupy GPIO8/9 reserved positions on harness ONLY (not wired to GPIO8/9). Flexible neck service loop.
+Controller,J31,3,LCD_MOSI,Head,J301,2.54pitch row aligned to native left header; two ground returns occupy GPIO8/9 reserved positions on harness ONLY (not wired to GPIO8/9). Flexible neck service loop.
+Controller,J31,4,GND,Head,J301,2.54pitch row aligned to native left header; two ground returns occupy GPIO8/9 reserved positions on harness ONLY (not wired to GPIO8/9). Flexible neck service loop.
+Controller,J31,5,GND,Head,J301,2.54pitch row aligned to native left header; two ground returns occupy GPIO8/9 reserved positions on harness ONLY (not wired to GPIO8/9). Flexible neck service loop.
+Controller,J31,6,LCD_DC,Head,J301,2.54pitch row aligned to native left header; two ground returns occupy GPIO8/9 reserved positions on harness ONLY (not wired to GPIO8/9). Flexible neck service loop.
+Controller,J31,7,I2S_DATA,Head,J301,2.54pitch row aligned to native left header; two ground returns occupy GPIO8/9 reserved positions on harness ONLY (not wired to GPIO8/9). Flexible neck service loop.
+Controller,J31,8,I2C_SCL,Head,J301,2.54pitch row aligned to native left header; two ground returns occupy GPIO8/9 reserved positions on harness ONLY (not wired to GPIO8/9). Flexible neck service loop.
+Controller,J32,1,VOL_PLUS_N,Head,J302,Body buttons and servo control to head GPIO expander. Servo hardware has independent default-OFF pulldowns.
+Controller,J32,2,VOL_MINUS_N,Head,J302,Body buttons and servo control to head GPIO expander. Servo hardware has independent default-OFF pulldowns.
+Controller,J32,3,SERVO_EN,Head,J302,Body buttons and servo control to head GPIO expander. Servo hardware has independent default-OFF pulldowns.
+Controller,J32,4,SERVO_FAULT_N,Head,J302,Body buttons and servo control to head GPIO expander. Servo hardware has independent default-OFF pulldowns.
+Controller,J40,1,5V_BOOST,Power,J140,"Controller/power link. 5V_BOOST feeds isolation pair on controller; 5V_MODULE returns only for PWM buffer. Gauge, length and strain relief pending."
+Controller,J40,2,GND,Power,J140,"Controller/power link. 5V_BOOST feeds isolation pair on controller; 5V_MODULE returns only for PWM buffer. Gauge, length and strain relief pending."
+Controller,J40,3,5V_MODULE,Power,J140,"Controller/power link. 5V_BOOST feeds isolation pair on controller; 5V_MODULE returns only for PWM buffer. Gauge, length and strain relief pending."
+Controller,J40,4,PAN_PWM,Power,J140,"Controller/power link. 5V_BOOST feeds isolation pair on controller; 5V_MODULE returns only for PWM buffer. Gauge, length and strain relief pending."
+Controller,J40,5,SERVO_EN,Power,J140,"Controller/power link. 5V_BOOST feeds isolation pair on controller; 5V_MODULE returns only for PWM buffer. Gauge, length and strain relief pending."
+Controller,J40,6,SERVO_FAULT_N,Power,J140,"Controller/power link. 5V_BOOST feeds isolation pair on controller; 5V_MODULE returns only for PWM buffer. Gauge, length and strain relief pending."
+Controller,J40,7,CELL_PLUS,Power,J140,"Controller/power link. 5V_BOOST feeds isolation pair on controller; 5V_MODULE returns only for PWM buffer. Gauge, length and strain relief pending."
+Controller,J40,8,MODE_RUN_CELL,Power,J140,"Controller/power link. 5V_BOOST feeds isolation pair on controller; 5V_MODULE returns only for PWM buffer. Gauge, length and strain relief pending."
+Controller,J40,9,MODE_USB_CLAMP,Power,J140,"Controller/power link. 5V_BOOST feeds isolation pair on controller; 5V_MODULE returns only for PWM buffer. Gauge, length and strain relief pending."
+Controller,J40,10,BOOST_EN,Power,J140,"Controller/power link. 5V_BOOST feeds isolation pair on controller; 5V_MODULE returns only for PWM buffer. Gauge, length and strain relief pending."
+Head,J14,1,CELL_PLUS,Power,J100,Raw cell + protection return separation. Dedicated power harness through neck.
+Head,J14,2,CELL_MINUS,Power,J100,Raw cell + protection return separation. Dedicated power harness through neck.
+Head,J14,3,NTC_CELL,Power,J100,Raw cell + protection return separation. Dedicated power harness through neck.
+Head,J14,4,GND,Power,J100,Raw cell + protection return separation. Dedicated power harness through neck.
+Charge_Port,J220,1,USB_CHARGE_VBUS,Power,J120,Charge-only USB-C 5V/GND. Independent CC Rd resistors remain at socket. No USB data extension.
+Charge_Port,J220,2,GND,Power,J120,Charge-only USB-C 5V/GND. Independent CC Rd resistors remain at socket. No USB data extension.
+Controller,J42,1,MODE_USB_CLAMP,Head,J303,"Low-current mode status to expander on head, no raw-cell return in this branch."
+Controller,J42,2,GND,Head,J303,"Low-current mode status to expander on head, no raw-cell return in this branch."

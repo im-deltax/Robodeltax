@@ -1,0 +1,108 @@
+[
+  {
+    "id": "A01",
+    "file": "A01_print_600dpi.png",
+    "pixels": [
+      1232,
+      3017
+    ],
+    "canvas_mm": [
+      52.12254875631197,
+      127.69930053885042
+    ],
+    "dpi": 600,
+    "seam_allowance_mm": 3.5,
+    "trim_marks_in_print": false
+  },
+  {
+    "id": "A02",
+    "file": "A02_print_600dpi.png",
+    "pixels": [
+      1233,
+      3011
+    ],
+    "canvas_mm": [
+      52.162229465185284,
+      127.43015092058349
+    ],
+    "dpi": 600,
+    "seam_allowance_mm": 3.5,
+    "trim_marks_in_print": false
+  },
+  {
+    "id": "S02",
+    "file": "S02_print_600dpi.png",
+    "pixels": [
+      766,
+      2409
+    ],
+    "canvas_mm": [
+      32.4,
+      101.96557963661535
+    ],
+    "dpi": 600,
+    "seam_allowance_mm": 3.5,
+    "trim_marks_in_print": false
+  },
+  {
+    "id": "S01",
+    "file": "S01_print_600dpi.png",
+    "pixels": [
+      766,
+      2402
+    ],
+    "canvas_mm": [
+      32.4,
+      101.65440613798482
+    ],
+    "dpi": 600,
+    "seam_allowance_mm": 3.5,
+    "trim_marks_in_print": false
+  },
+  {
+    "id": "E01",
+    "file": "E01_print_600dpi.png",
+    "pixels": [
+      4225,
+      291
+    ],
+    "canvas_mm": [
+      178.83059945484558,
+      12.3
+    ],
+    "dpi": 600,
+    "seam_allowance_mm": 3.5,
+    "trim_marks_in_print": false
+  },
+  {
+    "id": "I01",
+    "file": "I01_print_600dpi.png",
+    "pixels": [
+      3461,
+      430
+    ],
+    "canvas_mm": [
+      146.49440481992238,
+      18.2
+    ],
+    "dpi": 600,
+    "seam_allowance_mm": 3.5,
+    "trim_marks_in_print": false
+  },
+  {
+    "id": "K01",
+    "file": "K01_print_600dpi.png",
+    "pixels": [
+      3109,
+      3108
+    ],
+    "canvas_mm": [
+      131.6086183333333,
+      131.5338647222222
+    ],
+    "dpi": 600,
+    "seam_allowance_mm": 3.5,
+    "trim_marks_in_print": false,
+    "source": "Unchanged approved hat print embedded in sewing dossier"
+  }
+]

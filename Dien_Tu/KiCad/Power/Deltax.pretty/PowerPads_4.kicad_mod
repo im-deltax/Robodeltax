@@ -1,0 +1,101 @@
+(footprint "PowerPads_4"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Signal wires on surface solder lands; cell and servo power use THT. Ten-pin control link is compact2x5 surface lands. Chassis strain relief required.")
+	(property "Reference" "J100"
+		(at 0 -2.2 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "d9bc5822-de29-460d-9d9e-50b3744fc655")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "J100"
+		(at 0 2.2 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "503df13e-f453-4226-9d84-0614496aa7ad")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "60815369-fd50-4ac0-940b-c4010d4f1f51")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8a46df84-3782-472f-b41b-f58c6766b657")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_rect
+		(start -0.85 -0.85)
+		(end 6.25 0.85)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "10d7bf30-9b32-40cd-b6d7-1a3e2690997b")
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 1.4 1.4)
+		(drill 0.7)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 90)
+		(uuid "9cf71982-1e4c-4188-b670-d4a3d978629d")
+	)
+	(pad "2" thru_hole circle
+		(at 1.8 0)
+		(size 1.4 1.4)
+		(drill 0.7)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8f185499-d10f-4b10-8c97-e4598d7cbf88")
+	)
+	(pad "3" thru_hole circle
+		(at 3.6 0)
+		(size 1.4 1.4)
+		(drill 0.7)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "e5cda0ff-cd53-4dd7-b790-979bc9c0caf2")
+	)
+	(pad "4" thru_hole circle
+		(at 5.4 0)
+		(size 1.4 1.4)
+		(drill 0.7)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(zone_connect 2)
+		(uuid "e013a0d9-b88f-41bb-b5a7-53e3d56c7728")
+	)
+	(embedded_fonts no)
+)

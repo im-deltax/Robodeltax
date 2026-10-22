@@ -1,0 +1,128 @@
+[
+  {
+    "id": "A01",
+    "width_mm": 44.12254875631197,
+    "height_mm": 119.69930053885042,
+    "quantity": "1",
+    "seam_allowance_mm": 3.5
+  },
+  {
+    "id": "A02",
+    "width_mm": 44.162229465185284,
+    "height_mm": 119.43015092058349,
+    "quantity": "1",
+    "seam_allowance_mm": 3.5
+  },
+  {
+    "id": "S02",
+    "width_mm": 24.4,
+    "height_mm": 93.96557963661535,
+    "quantity": "1 ngoài; S thêm1 lót ngà",
+    "seam_allowance_mm": 3.5
+  },
+  {
+    "id": "S01",
+    "width_mm": 24.4,
+    "height_mm": 93.65440613798482,
+    "quantity": "1 ngoài; S thêm1 lót ngà",
+    "seam_allowance_mm": 3.5
+  },
+  {
+    "id": "H01",
+    "width_mm": 14.438288452763256,
+    "height_mm": 25.210675477717288,
+    "quantity": "1",
+    "seam_allowance_mm": 3.5
+  },
+  {
+    "id": "E01",
+    "width_mm": 170.83059945484558,
+    "height_mm": 4.3,
+    "quantity": "1 ngoài đỏ, gấp giữa dọc",
+    "seam_allowance_mm": 3.5
+  },
+  {
+    "id": "H02",
+    "width_mm": 170.83059945484558,
+    "height_mm": 6,
+    "quantity": "1 cổ lót ngà",
+    "seam_allowance_mm": 3.5
+  },
+  {
+    "id": "I01",
+    "width_mm": 138.49440481992238,
+    "height_mm": 10.2,
+    "quantity": "1 ngoài +1 lót, cài chồng8mm",
+    "seam_allowance_mm": 3.5
+  },
+  {
+    "id": "N01A",
+    "width_mm": 13,
+    "height_mm": 8.6,
+    "quantity": "2 ngoài +2 lót",
+    "seam_allowance_mm": 3.5
+  },
+  {
+    "id": "N01B",
+    "width_mm": 9.5,
+    "height_mm": 6,
+    "quantity": "2 ngoài +2 lót",
+    "seam_allowance_mm": 3.5
+  },
+  {
+    "id": "N02",
+    "width_mm": 55,
+    "height_mm": 6,
+    "quantity": "1, gấp giữa dọc",
+    "seam_allowance_mm": 3.5
+  },
+  {
+    "id": "N03",
+    "width_mm": 4.2,
+    "height_mm": 10.5,
+    "quantity": "2 đuôi nơ",
+    "seam_allowance_mm": 3.5
+  },
+  {
+    "id": "D01",
+    "width_mm": 85.88400938763772,
+    "height_mm": 1.2,
+    "quantity": "1 ruy băng dệt sẵn; chồng cài5mm",
+    "seam_allowance_mm": 0
+  },
+  {
+    "id": "K01",
+    "width_mm": 108.54253946899293,
+    "height_mm": 108.54285293088233,
+    "quantity": "1 ngoài đỏ",
+    "seam_allowance_mm": 3.5
+  },
+  {
+    "id": "K02",
+    "width_mm": 108.54253946899293,
+    "height_mm": 108.54285293088233,
+    "quantity": "1 lót đỏ",
+    "seam_allowance_mm": 3.5
+  },
+  {
+    "id": "K03",
+    "width_mm": 108.54253946899293,
+    "height_mm": 108.54285293088233,
+    "quantity": "1 dựng vải",
+    "seam_allowance_mm": 3.5
+  },
+  {
+    "id": "K04",
+    "width_mm": 324.44,
+    "height_mm": 4,
+    "quantity": "1 viền vàng vành nón; số này là dài cắt",
+    "seam_allowance_mm": 0
+  },
+  {
+    "id": "K05",
+    "width_mm": 72,
+    "height_mm": 6,
+    "quantity": "2 dải đỡ vải",
+    "seam_allowance_mm": 3.5
+  }
+]

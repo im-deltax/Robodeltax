@@ -1,0 +1,12 @@
+﻿Reference,Value,Package,Quantity,MPN_or_specification,Assembly,Notes
+C30,4.7uF_10V,Capacitor_SMD:C_0603_1608Metric,1,4.7uF_10V / X7R or X5R / >=10V / +/-20% / specified package,SMT,
+J11,J11,Deltax:SLW_108_LowProfile,1,,THT/manual,"SuperMini component face USB top LEFT row: GPIO5,6,7,8,9,10,20,21. Male header plastic above module PCB. Exact purchased-board mating verification pending."
+J12,J12,Deltax:SLW_108_LowProfile,1,,THT/manual,"SuperMini component face USB top RIGHT row antenna to USB: GPIO0,1,2,3,4,3V3,GND,5V. Two socket rows 15.24mm apart."
+Q10,AO3401A_GSD,Package_TO_SOT_SMD:SOT-23,1,AO3401A,SMT,P-channel common-source pair: off-state body diodes oppose in both directions; not a single-diode OR. AO3401A provisional exact RDS/VGS/thermal qualification pending.
+Q11,AO3401A_GSD,Package_TO_SOT_SMD:SOT-23,1,AO3401A,SMT,
+Q12,2N7002_GSD,Package_TO_SOT_SMD:SOT-23,1,2N7002,SMT,Actual boost enable controls isolation. USB mode or charge cable holds BOOST_EN low. MOSFET transition/backfeed qualification still required.
+R1,4.7k,Resistor_SMD:R_0603_1608Metric,1,0603 / 4.7k / 1% / >=0.1W,SMT,
+R2,4.7k,Resistor_SMD:R_0603_1608Metric,1,0603 / 4.7k / 1% / >=0.1W,SMT,
+R30,100k,Resistor_SMD:R_0603_1608Metric,1,0603 / 100k / 1% / >=0.1W,SMT,
+R32,1M,Resistor_SMD:R_0603_1608Metric,1,0603 / 1M / 1% / >=0.1W,SMT,
+R33,1M,Resistor_SMD:R_0603_1608Metric,1,0603 / 1M / 1% / >=0.1W,SMT,

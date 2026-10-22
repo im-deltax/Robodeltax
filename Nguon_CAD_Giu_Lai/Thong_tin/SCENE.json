@@ -1,0 +1,193 @@
+{
+  "objects": [
+    {
+      "name": "PumpkinHeadFront",
+      "tag": "ivory",
+      "stl": "STL\\PumpkinHeadFront.stl",
+      "role": "preserved_core"
+    },
+    {
+      "name": "PumpkinHeadRear",
+      "tag": "ivory",
+      "stl": "STL\\PumpkinHeadRear.stl",
+      "role": "preserved_core"
+    },
+    {
+      "name": "LensSeatBezel",
+      "tag": "black",
+      "stl": "STL\\LensSeatBezel.stl",
+      "role": "preserved_core"
+    },
+    {
+      "name": "PumpkinBodyFront",
+      "tag": "black",
+      "stl": "STL\\PumpkinBodyFront.stl",
+      "role": "preserved_core"
+    },
+    {
+      "name": "PumpkinBodyRear",
+      "tag": "black",
+      "stl": "STL\\PumpkinBodyRear.stl",
+      "role": "preserved_core"
+    },
+    {
+      "name": "ArmLeft",
+      "tag": "white",
+      "stl": "STL\\ArmLeft.stl",
+      "role": "redesigned_external_arm_with_original_shoulder_subset"
+    },
+    {
+      "name": "ArmRight",
+      "tag": "white",
+      "stl": "STL\\ArmRight.stl",
+      "role": "redesigned_external_arm_with_original_shoulder_subset"
+    },
+    {
+      "name": "Neck",
+      "tag": "black",
+      "stl": "STL\\Neck.stl",
+      "role": "preserved_core"
+    },
+    {
+      "name": "Base",
+      "tag": "ivory",
+      "stl": "STL\\Base.stl",
+      "role": "preserved_core"
+    },
+    {
+      "name": "BaseCover",
+      "tag": "ivory",
+      "stl": "STL\\BaseCover.stl",
+      "role": "preserved_core"
+    },
+    {
+      "name": "MagnetCapLeft",
+      "tag": "black",
+      "stl": "STL\\MagnetCapLeft.stl",
+      "role": "preserved_core"
+    },
+    {
+      "name": "MagnetCapRight",
+      "tag": "black",
+      "stl": "STL\\MagnetCapRight.stl",
+      "role": "preserved_core"
+    },
+    {
+      "name": "LowerSupportInsert1",
+      "tag": "black",
+      "stl": "STL\\LowerSupportInsert1.stl",
+      "role": "preserved_core"
+    },
+    {
+      "name": "LowerSupportInsert2",
+      "tag": "black",
+      "stl": "STL\\LowerSupportInsert2.stl",
+      "role": "preserved_core"
+    },
+    {
+      "name": "UpperSupportInsert1",
+      "tag": "black",
+      "stl": "STL\\UpperSupportInsert1.stl",
+      "role": "preserved_core"
+    },
+    {
+      "name": "UpperSupportInsert2",
+      "tag": "black",
+      "stl": "STL\\UpperSupportInsert2.stl",
+      "role": "preserved_core"
+    },
+    {
+      "name": "SpeakerFrontRetainer",
+      "tag": "black",
+      "stl": "STL\\SpeakerFrontRetainer.stl",
+      "role": "preserved_core"
+    },
+    {
+      "name": "USB_EndRail_Bottom",
+      "tag": "black",
+      "stl": "STL\\USB_EndRail_Bottom.stl",
+      "role": "preserved_core"
+    },
+    {
+      "name": "USB_EndRail_Top_Piece_1",
+      "tag": "black",
+      "stl": "STL\\USB_EndRail_Top_Piece_1.stl",
+      "role": "preserved_core"
+    },
+    {
+      "name": "USB_EndRail_Top_Piece_2",
+      "tag": "black",
+      "stl": "STL\\USB_EndRail_Top_Piece_2.stl",
+      "role": "preserved_core"
+    },
+    {
+      "name": "Lens_PC_1p016_Target",
+      "tag": "lens",
+      "stl": "STL\\Lens_PC_1p016_Target.stl",
+      "role": "preserved_core"
+    },
+    {
+      "name": "Lens_Continuous_Gasket",
+      "tag": "black",
+      "stl": "STL\\Lens_Continuous_Gasket.stl",
+      "role": "preserved_core"
+    },
+    {
+      "name": "Lens_Rear_Opaque_Film",
+      "tag": "black",
+      "stl": "STL\\Lens_Rear_Opaque_Film.stl",
+      "role": "preserved_core"
+    },
+    {
+      "name": "A_DeltaX_Engraved_Nameplate",
+      "tag": "black",
+      "stl": "STL\\A_DeltaX_Engraved_Nameplate.stl",
+      "role": "preserved_core"
+    },
+    {
+      "name": "A_DeltaX_Recessed_Gold_Inlay",
+      "tag": "gold",
+      "stl": "STL\\A_DeltaX_Recessed_Gold_Inlay.stl",
+      "role": "preserved_core"
+    },
+    {
+      "name": "LCD_Front_Opaque_Shroud",
+      "tag": "black",
+      "stl": "STL\\LCD_Front_Opaque_Shroud.stl",
+      "role": "preserved_core"
+    },
+    {
+      "name": "V11_Internal_Core_Pedestal",
+      "tag": "black",
+      "stl": "STL\\V11_Internal_Core_Pedestal.stl",
+      "role": "preserved_core"
+    },
+    {
+      "name": "K_LCD_den_tham_chieu",
+      "tag": "black",
+      "stl": "STL\\K_LCD_den_tham_chieu.stl",
+      "role": "display_only_illustration"
+    },
+    {
+      "name": "K_Mat_cuoi_minh_hoa",
+      "tag": "cyan",
+      "stl": "STL\\K_Mat_cuoi_minh_hoa.stl",
+      "role": "display_only_illustration"
+    }
+  ],
+  "colors": {
+    "red": "#A8141E",
+    "darkred": "#6E0B12",
+    "cream": "#F6E7D8",
+    "pink": "#F2C4C4",
+    "gold": "#C9A24A",
+    "black": "#1E1716",
+    "ivory": "#F3EEE6",
+    "white": "#FAF7F2",
+    "gray": "#BDB6AE",
+    "lens": "#EDF1EF",
+    "cyan": "#35DFF5"
+  },
+  "lcd_active_center_z_mm": 80.61999999999999,
+  "actual_CAD_export": true
+}
