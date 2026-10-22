@@ -41,9 +41,13 @@ git lfs pull
 
 ## Licensing and provenance
 
-Licensing is pending review. No blanket open-source license is granted by this initial publication. Public availability alone does not grant permission to reuse, modify or redistribute the assets. Existing third-party notices and licenses remain applicable.
+Copyright (C) 2026 Trần Minh Triết (im-deltax).
 
-Software, electronics, editable 3D designs, garment patterns and artwork need appropriate license scopes and ownership/provenance checks before the project can be described as fully open source. Reference-based variants and copied studies require particular attention. The goal is an open-source release once these checks are complete.
+Unless a file or component states otherwise, original copyrightable material in this repository owned by Trần Minh Triết is licensed under the **GNU General Public License, version 3 only (GPL-3.0-only)**. See [LICENSE](LICENSE) for the complete terms. This includes the original design files and documentation to the extent the author owns the applicable copyright. This notice does not add chatbot software or firmware that has not yet been published.
+
+Third-party components, libraries, artwork and reference-derived material retain their own licenses and rights; this notice does not relicense material the author does not own. Folder names such as `BANSAO` alone do not establish authorship or licensing. Provenance of reference-derived material remains to be documented.
+
+GPL-3.0 permits commercial use. Obligations depend on how covered works are modified and conveyed; see the actual license rather than assuming every private modification must be published. Applying GPL to design files is not hardware certification, physical validation or a grant of third-party rights.
 
 ## Contributing
 
@@ -53,4 +57,5 @@ Please open an issue for questions, reproducibility reports, documentation corre
 
 ## Tiếng Việt
 
-Robodeltax là dự án robot chatbot AI hỗ trợ học tập đang phát triển. Bản công khai ban đầu gồm thiết kế vỏ, điện tử, cảnh Blender và rập trang phục; **chưa có source chatbot chính hoặc firmware hoàn chỉnh**. Đọc `MO_FILE_NAY_TRUOC.txt` để chọn đúng bộ hiện hành. Chưa xác nhận lắp vừa toàn bộ linh kiện hoặc kiểm thử điện thực tế. Giấy phép và nguồn gốc tài nguyên đang được rà soát, chưa cấp giấy phép chung cho bộ thiết kế.
+Robodeltax là dự án robot chatbot AI hỗ trợ học tập đang phát triển. Bản công khai ban đầu gồm thiết kế vỏ, điện tử, cảnh Blender và rập trang phục; **chưa có source chatbot chính hoặc firmware hoàn chỉnh**. Đọc `MO_FILE_NAY_TRUOC.txt` để chọn đúng bộ hiện hành. Chưa xác nhận lắp vừa toàn bộ linh kiện hoặc kiểm thử điện thực tế. Phần tài nguyên gốc thuộc quyền sở hữu của Trần Minh Triết được cấp phép GPL-3.0-only, trừ khi có ghi chú khác. Thành phần bên thứ ba giữ giấy phép và quyền tương ứng, nguồn gốc tài nguyên tham khảo cần được ghi rõ.
+
